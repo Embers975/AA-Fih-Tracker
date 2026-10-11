@@ -2,6 +2,20 @@
 
 Track the grind, share the data, question your luck — when yh? 🎣
 
+## Supported Browsers
+
+Tested on Chrome and Brave. Should work on Edge, Opera or Vivaldi also.
+
+## Installation
+
+1. Download the latest ZIP from Releases.
+2. Extract the ZIP.
+3. Open your browser Extensions page.
+4. Enable Developer Mode.
+5. Click **Load unpacked**.
+6. Select the extracted extension folder.
+7. Open or refresh Arcane Angler.
+
 ## What It Tracks
 
 ### Session Tracker
@@ -41,17 +55,3 @@ Each cast can include:
 - User ID and username
 
 Multiple exported files can also be merged while keeping duplicate sessions separated correctly.
-
-## Supported Browsers
-
-Tested on Chrome and Brave. Should work on Edge, Opera or Vivaldi also.
-
-## Installation
-
-1. Download the latest ZIP from Releases.
-2. Extract the ZIP.
-3. Open your browser Extensions page.
-4. Enable Developer Mode.
-5. Click **Load unpacked**.
-6. Select the extracted extension folder.
-7. Open or refresh Arcane Angler.
